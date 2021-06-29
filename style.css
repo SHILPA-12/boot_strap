@@ -1,0 +1,97 @@
+
+
+			.myDiv {
+ 			 
+  			  		
+  			  		background-color: off-white;
+  			  		 border: 2px outset black;
+  			  		 margin-right: 200px;
+  			  		 padding-left: 400px;
+
+  			  		 font-family: Arial, Helvetica, sans-serif;
+			}
+			.img1 {
+ 			 
+  			  		padding-left: 500px;	
+
+  			  		
+			}
+
+td a
+{
+	color: white;
+	text-decoration: none;
+	background: black;
+	 padding-top: 8px;
+  padding-right: 5px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  font-family: "Times New Roman", Times, serif;
+
+}
+td a:hover
+{
+	color: deepskyblue;
+	text-decoration: none;
+	background: black;
+	 padding-top: 8px;
+  padding-right: 5px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+
+}
+p
+{
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left: 20px;
+	margin-right: 100px;
+}
+hr
+{
+	border: 2px solid blue;
+	width: 2%;
+	margin-left:2px
+}
+footer
+{
+	background-color: black;
+	
+	color: white;
+	margin: 100px;
+	margin-left: 1px;
+	font-family: "Times New Roman", Times, serif;
+
+}
+
+h3
+{
+	font-family: "Times New Roman", Times, serif;
+}
+td img
+{
+	border-radius: 20%;
+	
+}
+ul
+{
+	list-style: none;
+}
+li
+{
+	display: inline;
+	margin: 20px;
+}
+.skill
+{
+	padding: 20px;
+	
+	margin-left: 150px;
+}
+.carousel-inner
+{
+	padding-top: 20px;
+}
+#skills
+{
+	padding-top: 20px;
+}
